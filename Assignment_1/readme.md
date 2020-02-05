@@ -1,4 +1,4 @@
-#ANONYMOUS ARRAY:
+# ANONYMOUS ARRAY:
 
 An array in Java without any name is called anonymous array.It is created for using instantly.It is passed as argument of method.
 
@@ -6,7 +6,7 @@ An array in Java without any name is called anonymous array.It is created for us
 new int[] {1,2,3} //anonymous int array
 new String[] {'hello', 'world'}
 
-##Example:
+## Example:
 ```javascript
 class Test { 
     public static void main(String[] args) 
@@ -26,5 +26,5 @@ class Test {
     } 
 } 
 ```
-###output:
+### output:
 The sum is 6
