@@ -3,8 +3,8 @@
 An array in Java without any name is called anonymous array.It is created for using instantly.It is passed as argument of method.
 
 ## Syntax:
-new int[] {1,2,3} //anonymous int array
-new String[] {'hello', 'world'}
+* new int[] {1,2,3} //anonymous int array
+* new String[] {'hello', 'world'}
 
 ## Example:
 ```javascript
