@@ -53,7 +53,7 @@ public class Demo {
 ```
 ### Output
 
-Animal is eating/
+Animal is eating\
 Animal is travelling
 
 # Nested interface
