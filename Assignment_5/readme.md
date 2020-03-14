@@ -100,7 +100,7 @@ Following is the list of commonly used event listeners.
 
 This interface is used for receiving the action events.
 
-### Interface method
+#### Interface method
 
 ```javascript
 void actionPerformed(ActionEvent e)
@@ -110,50 +110,58 @@ void actionPerformed(ActionEvent e)
 
 This interface is used for receiving the component events.
 
-### Interface method
+#### Interface method
 
-1. void componentHidden(ComponentEvent e)
-
+1. ```javascript
+void componentHidden(ComponentEvent e)
+```
 Invoked when the component has been made invisible.
 
-2. void componentMoved(ComponentEvent e)
-
+2. ```javascript
+void componentMoved(ComponentEvent e)
+```
 Invoked when the component's position changes.
 
-3. void componentResized(ComponentEvent e)
-
+3. ```javascript
+void componentResized(ComponentEvent e)
+```
 Invoked when the component's size changes.
 
-4. void componentShown(ComponentEvent e)
-
+4. ```javascript
+void componentShown(ComponentEvent e)
+```
 Invoked when the component has been made visible.
 
 3. ItemListener
 
 This interface is used for receiving the item events.
 
-### Interface method
+#### Interface method
 
+```javascript
 void itemStateChanged(ItemEvent e)
-
+```
 Invoked when an item has been selected or deselected by the user.
 
 4. KeyListener
 
 This interface is used for receiving the key events.
 
-### Interface method
+#### Interface method
 
-1. void keyPressed(KeyEvent e)
-
+1. ```javascript
+void keyPressed(KeyEvent e)
+```
 Invoked when a key has been pressed.
 
-2. void keyReleased(KeyEvent e)
-
+2. ```javascript
+void keyReleased(KeyEvent e)
+```
 Invoked when a key has been released.
 
-3. void keyTyped(KeyEvent e)
-
+3. ```javascript
+void keyTyped(KeyEvent e)
+```
 Invoked when a key has been typed.
 
 5. MouseListener
