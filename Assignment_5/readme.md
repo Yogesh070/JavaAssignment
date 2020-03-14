@@ -96,6 +96,7 @@ Following is the declaration for java.util.EventListener interface:
 public interface EventListener
 ```
 Following is the list of commonly used event listeners.
+
 1. ActionListener
 
 This interface is used for receiving the action events.
@@ -112,22 +113,22 @@ This interface is used for receiving the component events.
 
 #### Interface method
 
-1. ```javascript
+```javascript
 void componentHidden(ComponentEvent e)
 ```
 Invoked when the component has been made invisible.
 
-2. ```javascript
+```javascript
 void componentMoved(ComponentEvent e)
 ```
 Invoked when the component's position changes.
 
-3. ```javascript
+```javascript
 void componentResized(ComponentEvent e)
 ```
 Invoked when the component's size changes.
 
-4. ```javascript
+```javascript
 void componentShown(ComponentEvent e)
 ```
 Invoked when the component has been made visible.
@@ -149,17 +150,17 @@ This interface is used for receiving the key events.
 
 #### Interface method
 
-1. ```javascript
+```javascript
 void keyPressed(KeyEvent e)
 ```
 Invoked when a key has been pressed.
 
-2. ```javascript
+```javascript
 void keyReleased(KeyEvent e)
 ```
 Invoked when a key has been released.
 
-3. ```javascript
+```javascript
 void keyTyped(KeyEvent e)
 ```
 Invoked when a key has been typed.
