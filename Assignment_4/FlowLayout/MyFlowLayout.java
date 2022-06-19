@@ -1,3 +1,5 @@
+package Assignment_4.FlowLayout;
+
 import java.awt.*;  
 import javax.swing.*;  
   

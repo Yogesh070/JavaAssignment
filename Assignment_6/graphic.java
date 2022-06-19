@@ -1,3 +1,5 @@
+package Assignment_6;
+
 import java.awt.*;
 
 class graphic extends Frame
