@@ -8,6 +8,9 @@ SN.No | Title | LINK
 :four: |CardLayout, FlowLayout, GridLayout |[Assignment_4](Assignment_4/readme.md)
 :five: |Event Object, Event Listner,Adapter Class,Closeable Frame and more|[Assignment_5](Assignment_5/readme.md)
 :six: |Graphics in Java |[Assignment_6](Assignment_6/readme.md)
+:seven: |Singleton Class|[SingletonClass](Assignment_8/readme.md)
+:eight: |Design Patterns |[Assignment_6](DesignPatterns/readme.md)
+
  
 
 ***This repository is for Java Assignment***\
